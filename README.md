@@ -33,8 +33,6 @@ Este repositório contém materiais relacionados ao curso **"Análise e Levantam
 
 ## Objetivos de Aprendizagem
 
-Ao concluir este curso, os participantes serão capazes de:
-
 - Compreender a importância dos requisitos de software no sucesso de um projeto.
 - Aplicar técnicas eficazes de elicitação para identificar necessidades dos stakeholders.
 - Analisar e documentar requisitos de forma clara e precisa.
@@ -80,8 +78,6 @@ This repository contains materials related to the **"Software Requirements Analy
    Discusses how to align requirements management with both agile and traditional development methodologies.
 
 ## Learning Objectives
-
-Upon completing this course, participants will be able to:
 
 - Understand the importance of software requirements in project success.
 - Apply effective elicitation techniques to identify stakeholders' needs.
